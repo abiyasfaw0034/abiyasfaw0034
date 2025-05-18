@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full stack web developer, currently learning Nextjs and i am looking to collaborate on any website development projects<br>
+Full stack web developer,system architect and developer and i am looking to collaborate on any website & software development projects<br>
 
 
 ## 🌐 Socials:
