@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack web developer,system architect and developer and i am looking to collaborate on any website & software development projects<br>
+Full stack web developer, system architect and Mobile app developer(Native) and i am looking to collaborate on any website & software development projects<br>
 
 
 ## 🌐 Socials:
